@@ -1,1 +1,2 @@
 # workout-plan
+Here, we're developing a tool to monitor workout intensity based on heart rate and calorie burn data. Our tracker classifies workouts into moderate or extreme exertion levels, helping users maintain safe and effective exercise routines. With real-time feedback and customization options, users can optimize their fitness goals and track progress over time.
